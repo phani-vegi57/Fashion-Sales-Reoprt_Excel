@@ -17,6 +17,7 @@ Review the pivot tables in the Excel file for data summarization.
 Explore the interactive visuals created within the Excel project.
 
 ##Usage:
+
 This Excel project is meant for anyone interested in data cleaning, pivot tables, and data visualization. It serves as a practical example of how to transform raw data into actionable insights using Excel.
 
 ##Contributing:
